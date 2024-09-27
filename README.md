@@ -1,6 +1,6 @@
 
 # Laboratorio I-2024
-## <sup>Asignatura: Patrones de Software y Programación </sup> <br><sup>Profesor: Daniel San Martín</sup> <br> <sup> Nombre Estudiante:</sup>
+## <sup>Asignatura: Patrones de Software y Programación </sup> <br><sup>Profesor: Daniel San Martín</sup> <br> <sup> Nombre Estudiante: Valentina López Contreras</sup>
 <hr>
 Dado el enunciado a continuación, implemente el patrón de diseño que usted considere necesario
 para dar solución al requerimiento. Además, explique porqué escogió el patrón, cual es su característica
@@ -34,7 +34,7 @@ los permisos o no, de acuerdo al archivo asignado por defecto.
 <hr>
 
 ## Explicación
-(Escriba aquí su explicación)
+Para resolver ambas problematicas, el patron de diseño más adecuado es el Proxy. Debido a que este patron nos permite controlar el acceso a un objeto, de manera que se puede realizar una acción antes de que el control llegue al objeto.
 
 
 <hr>
