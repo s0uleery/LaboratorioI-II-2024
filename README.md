@@ -34,7 +34,7 @@ los permisos o no, de acuerdo al archivo asignado por defecto.
 <hr>
 
 ## Explicación
-Para resolver ambas problematicas, el patron de diseño más adecuado es el Proxy. Debido a que este patron nos permite controlar el acceso a un objeto, de manera que se puede realizar una acción antes de que el control llegue al objeto.
+Para resolver ambas problematicas, el patron de diseño más adecuado es el Proxy. Debido a que este patron nos permite controlar el acceso a un objeto, de manera que se puede realizar una acción antes de que el control llegue al objeto. En este caso se utilizaria para gestionar el acceso a los archivos protegidos y la busqueda de usuarios.
 
 
 <hr>
